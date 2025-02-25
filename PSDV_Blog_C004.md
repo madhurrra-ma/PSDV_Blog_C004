@@ -82,7 +82,7 @@ print('Sentinel-2 NDVI:', sentinel_mean_ndvi.getInfo())
 ## Screenshots
 **Loading and Visualizing Landsat 8 and Sentinel-2 satellites**
 
-![code1](https://github.com/madhurrra-ma/Psdv_Blog/blob/main/code1.jpg)  
+![code1](https://github.com/madhurrra-ma/PSDV_Blog_C004/blob/main/code1.jpg)  
 
 **Performing NDVI Analysis**
 ![code2](https://github.com/madhurrra-ma/Psdv_Blog/blob/main/code2_.jpg)  
