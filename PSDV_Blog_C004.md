@@ -88,7 +88,7 @@ print('Sentinel-2 NDVI:', sentinel_mean_ndvi.getInfo())
 ![code2](https://github.com/madhurrra-ma/PSDV_Blog_C004/blob/main/code2_.jpg)  
 
 **Observation from Landsat 8 Satellite**  
-![map1](https://github.com/madhurrra-ma/Psdv_Blog/blob/main/map1.jpg)  
+![map1](https://github.com/madhurrra-ma/PSDV_Blog_C004/blob/main/map1.jpg)  
 
 **Observation from Sentinel-2 Satellite**
 ![map2](https://github.com/madhurrra-ma/Psdv_Blog/blob/main/map2_.jpg)
