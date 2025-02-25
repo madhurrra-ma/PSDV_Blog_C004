@@ -94,7 +94,7 @@ print('Sentinel-2 NDVI:', sentinel_mean_ndvi.getInfo())
 ![map2](https://github.com/madhurrra-ma/PSDV_Blog_C004/blob/main/map2_.jpg)
 
 **Output Terminal**
-![terminal](https://github.com/madhurrra-ma/Psdv_Blog/blob/main/terminal.jpg)
+![terminal](https://github.com/madhurrra-ma/PSDV_Blog_C004/blob/main/terminal.jpg)
 
 
 
